@@ -1,7 +1,7 @@
 # pavanpraneshjoshi
 
 <h1 align="center">Hi 👋, I'm Pavan Pranesh Joshi</h1>
-<h3 align="center">MSc Student Studying Data Science And Artificial Intelligence</h3>
+<h3 align="center">MSc Student Studying Data Science And Artificial Intelligence At University Of Liverpool</h3>
 
 - 🌱 I’m currently learning **Machine Learning,AI**
 
